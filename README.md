@@ -5,7 +5,7 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 bash
 Copy
 Edit
-tic-tac-toe/
+Tic-Tac-Toe/
 ├── index.html      # Main HTML file
 ├── style.css       # Styling for the game
 └── app.js          # Game logic (JavaScript)
